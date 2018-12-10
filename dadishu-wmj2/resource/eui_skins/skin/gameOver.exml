@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NewFile" width="960" height="580" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="960" height="580" x="0" y="0" fillAlpha="0.6"/>
+	<e:Rect width="548" height="375" x="219" y="83" anchorOffsetX="0" anchorOffsetY="0" fillColor="0x04870e"/>
+	<e:Group id="a_group" width="463" height="274" x="276.5" y="123" anchorOffsetY="0" anchorOffsetX="0" visible="false">
+		<e:Image source="1_png" x="0" y="0" anchorOffsetX="0" width="116" anchorOffsetY="0" height="121"/>
+		<e:Label text="一等奖：" x="131.5" y="45.5"/>
+		<e:Label text="温泉全免！！！" x="231" y="45.5" textColor="0xdb1111"/>
+	</e:Group>
+	<e:Group id="b_group" width="463" height="274" x="276.5" y="123" anchorOffsetY="0" anchorOffsetX="0" visible="false">
+		<e:Image x="0" y="0" anchorOffsetX="0" width="116" anchorOffsetY="0" height="121" source="2_png"/>
+		<e:Label text="一等奖：" x="131.5" y="45.5"/>
+		<e:Label text="粉饼报销！！" x="231" y="45.5" textColor="0x821414"/>
+	</e:Group>
+	<e:Group id="c_group" width="463" height="274" x="276.5" y="123" anchorOffsetY="0" anchorOffsetX="0" visible="false">
+		<e:Image x="0" y="0" anchorOffsetX="0" width="116" anchorOffsetY="0" height="121" source="3_png"/>
+		<e:Label text="一等奖：" x="131.5" y="45.5"/>
+		<e:Label text="外出吃饭一次！" x="231" y="45.5" textColor="0xe57b7b"/>
+	</e:Group>
+	<e:Group id="d_group" width="463" height="274" x="286.5" y="133" anchorOffsetY="0" anchorOffsetX="0" visible="false">
+		<e:Image x="0" y="0" anchorOffsetX="0" width="116" anchorOffsetY="0" height="121" source="shit_img_png"/>
+		<e:Label text="垃圾奖：" x="106" y="45.5"/>
+		<e:Label text="温泉由你全包！！！" x="221" y="45.5" textColor="0xE57B7B" anchorOffsetX="0" width="290"/>
+	</e:Group>
+	<e:Image id="yes_btn" source="YesBtn_jpg" x="429.5" y="328"/>
+</e:Skin>

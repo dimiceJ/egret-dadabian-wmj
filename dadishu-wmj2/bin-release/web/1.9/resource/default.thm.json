@@ -1,0 +1,8 @@
+{
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/skin/gameOver.exml",
+		"resource/eui_skins/skin/SceneBegin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

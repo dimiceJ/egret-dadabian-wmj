@@ -1,0 +1,25 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,cz_png,Dgn1_Hnd_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "cz_png",
+			"type": "image",
+			"url": "assets/cz.png"
+		},
+		{
+			"name": "Dgn1_Hnd_png",
+			"type": "image",
+			"url": "assets/Dgn1_Hnd.png"
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,cz_png,Dgn1_Hnd_png,1_png,2_png,3_png,di2_png,ds_png,new_bgc_png,shit_png,shit_img_png,shit2_png,stone_jpg,YesBtn_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "cz_png",
+			"type": "image",
+			"url": "assets/cz.png"
+		},
+		{
+			"name": "Dgn1_Hnd_png",
+			"type": "image",
+			"url": "assets/Dgn1_Hnd.png"
+		},
+		{
+			"name": "1_png",
+			"type": "image",
+			"url": "assets/1.png"
+		},
+		{
+			"name": "2_png",
+			"type": "image",
+			"url": "assets/2.png"
+		},
+		{
+			"name": "3_png",
+			"type": "image",
+			"url": "assets/3.png"
+		},
+		{
+			"name": "di2_png",
+			"type": "image",
+			"url": "assets/di2.png"
+		},
+		{
+			"name": "ds_png",
+			"type": "image",
+			"url": "assets/ds.png"
+		},
+		{
+			"name": "new_bgc_png",
+			"type": "image",
+			"url": "assets/new_bgc.png"
+		},
+		{
+			"name": "shit_png",
+			"type": "image",
+			"url": "assets/shit.png"
+		},
+		{
+			"name": "shit_img_png",
+			"type": "image",
+			"url": "assets/shit_img.png"
+		},
+		{
+			"name": "shit2_png",
+			"type": "image",
+			"url": "assets/shit2.png"
+		},
+		{
+			"name": "stone_jpg",
+			"type": "image",
+			"url": "assets/stone.jpg"
+		},
+		{
+			"name": "YesBtn_jpg",
+			"type": "image",
+			"url": "assets/YesBtn.jpg"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SceneBegin" width="960" height="580" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bgc" source="new_bgc_png" x="0" y="0" width="960" height="580" scaleX="1" scaleY="1"/>
+	<e:Label id="time_label" text="" x="849" y="45" anchorOffsetX="0" width="96" anchorOffsetY="0" height="62" verticalAlign="middle" textAlign="center"/>
+	<e:Label id="score_label" text="锤死了0个大便" x="345.5" y="25" anchorOffsetX="0" width="442" anchorOffsetY="0" height="40"/>
+	<e:Group id="e_group" width="960" x="0" top="0" bottom="0">
+		<e:Group id="group_1" width="162" height="118" anchorOffsetX="0" anchorOffsetY="0" x="103" y="104" scaleX="1" scaleY="1">
+			<e:Rect width="160" height="118" x="0" y="0" fillColor="0x5B1919" ellipseWidth="189" scaleX="1" scaleY="1" anchorOffsetX="0" anchorOffsetY="0"/>
+			<e:Group width="100" height="130" x="30" y="-26">
+				<e:Rect width="116" height="130" x="0" y="0" scaleX="1" scaleY="1" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="group_2" width="162" height="118" x="369" y="104" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+			<e:Rect width="160" height="118" x="0" y="0" fillColor="0x5B1919" ellipseWidth="189" scaleX="1" scaleY="1"/>
+			<e:Group width="100" height="130" x="34" y="-24">
+				<e:Rect width="116" height="130" x="0" y="0" scaleX="1" scaleY="1" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="group_3" width="162" height="118" x="646" y="104" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+			<e:Rect width="160" height="118" x="0" y="0" fillColor="0x5B1919" ellipseWidth="189" scaleX="1" scaleY="1"/>
+			<e:Group width="100" height="130" x="33" y="-24">
+				<e:Rect width="116" height="130" x="0" y="0" scaleX="1" scaleY="1" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="group_4" width="162" height="118" x="103" y="270" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+			<e:Rect width="160" height="118" x="0" y="0" fillColor="0x5B1919" ellipseWidth="189" scaleX="1" scaleY="1"/>
+			<e:Group width="100" height="130" x="31" y="-24">
+				<e:Rect width="116" height="130" x="0" y="0" scaleX="1" scaleY="1" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="group_5" width="162" height="118" x="367" y="270" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+			<e:Rect width="160" height="118" x="0" y="0" fillColor="0x5B1919" ellipseWidth="189" scaleX="1" scaleY="1"/>
+			<e:Group width="100" height="130" x="33" y="-24">
+				<e:Rect width="116" height="130" x="0" y="0" scaleX="1" scaleY="1" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="group_6" width="162" height="118" x="645" y="270" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+			<e:Rect width="160" height="118" x="0" y="0" fillColor="0x5B1919" ellipseWidth="189" scaleX="1" scaleY="1"/>
+			<e:Group width="100" height="130" x="32" y="-24">
+				<e:Rect width="116" height="130" x="0" y="0" scaleX="1" scaleY="1" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="group_7" width="162" height="118" x="103" y="433" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+			<e:Rect width="160" height="118" x="0" y="0" fillColor="0x5B1919" ellipseWidth="189" scaleX="1" scaleY="1"/>
+			<e:Group width="100" height="130" x="31" y="-24">
+				<e:Rect width="116" height="130" x="0" scaleX="1" scaleY="1" y="0" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="group_8" width="162" height="118" x="369" y="433" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+			<e:Rect width="160" height="118" x="0" y="0" fillColor="0x5B1919" ellipseWidth="189" scaleX="1" scaleY="1"/>
+			<e:Group width="100" height="130" x="32" y="-24">
+				<e:Rect width="116" height="130" x="0" scaleX="1" scaleY="1" y="0" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="group_9" width="162" height="118" x="646" y="433" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+			<e:Rect width="160" height="118" x="0" y="0" fillColor="0x5B1919" ellipseWidth="189" scaleX="1" scaleY="1"/>
+			<e:Group width="100" height="130" x="680" y="410">
+				<e:Rect width="116" height="130" x="0" y="0" scaleX="1" scaleY="1" visible="false"/>
+			</e:Group>
+		</e:Group>
+	</e:Group>
+</e:Skin>
